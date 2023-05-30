@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MirrorAnimationSystemDev.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Admin-Mocap\Desktop\Correciones Animationes\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Admin-Mocap\Desktop\Correciones Animationes\Plugins\Anny\Intermediate\Build\Win64\UE4Editor\Development\MirrorAnimationSystemDev\Module.MirrorAnimationSystemDev.cpp.obj"
+"C:\Users\Admin-Mocap\Desktop\Correciones Animationes\Plugins\Anny\Intermediate\Build\Win64\UE4Editor\Development\MirrorAnimationSystemDev\Module.MirrorAnimationSystemDev.gen.cpp.obj"
+"C:\Users\Admin-Mocap\Desktop\Correciones Animationes\Plugins\Anny\Intermediate\Build\Win64\UE4Editor\Development\MirrorAnimationSystemDev\Default.rc2.res"
+/OUT:"C:\Users\Admin-Mocap\Desktop\Correciones Animationes\Plugins\Anny\Intermediate\Build\Win64\UE4Editor\Development\MirrorAnimationSystemDev\UE4Editor-MirrorAnimationSystemDev.lib"
