@@ -1,0 +1,9 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"MirrorAnimationSystem": "UE4Editor-MirrorAnimationSystem.dll",
+		"MirrorAnimationSystemDev": "UE4Editor-MirrorAnimationSystemDev.dll",
+		"MirrorAnimationSystemEditor": "UE4Editor-MirrorAnimationSystemEditor.dll"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MirrorAnimationSystemEditor.cpp.obj": [
+			"AnimGraphNode_Mirror.cpp.obj",
+			"AnimGraphNode_MirrorCS.cpp.obj",
+			"AssetTypeActions_MirrorTable.cpp.obj",
+			"ContentBrowserTools.cpp.obj",
+			"MirrorAnimAssetDialog.cpp.obj",
+			"MirrorAnimAssetSettings.cpp.obj",
+			"MirrorAnimationSystemEditor.cpp.obj",
+			"MirrorAnimationSystemStyle.cpp.obj",
+			"MirrorTableDetails.cpp.obj",
+			"MirrorTableFromSkeletonDialog.cpp.obj",
+			"MirrorTableFromSkeletonSettings.cpp.obj"
+		],
+		"Module.MirrorAnimationSystemEditor.gen.cpp.obj": [
+			"AnimGraphNode_Mirror.gen.cpp.obj",
+			"AnimGraphNode_MirrorCS.gen.cpp.obj",
+			"MirrorAnimAssetSettings.gen.cpp.obj",
+			"MirrorAnimationSystemEditor.init.gen.cpp.obj",
+			"MirrorTableFromSkeletonSettings.gen.cpp.obj"
+		]
+	}
+}

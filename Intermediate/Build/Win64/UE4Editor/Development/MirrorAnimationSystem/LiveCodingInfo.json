@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MirrorAnimationSystem.cpp.obj": [
+			"AnimNode_Mirror.cpp.obj",
+			"AnimNode_MirrorCS.cpp.obj",
+			"ExtCharacter.cpp.obj",
+			"ExtCharacterMovementComponent.cpp.obj",
+			"MASUtils.cpp.obj",
+			"MirrorAnimationSystem.cpp.obj",
+			"MirrorTable.cpp.obj"
+		],
+		"Module.MirrorAnimationSystem.gen.cpp.obj": [
+			"AnimNode_Mirror.gen.cpp.obj",
+			"AnimNode_MirrorCS.gen.cpp.obj",
+			"ExtCharacter.gen.cpp.obj",
+			"ExtCharacterMovementComponent.gen.cpp.obj",
+			"MirrorAnimationSystem.init.gen.cpp.obj",
+			"MirrorTable.gen.cpp.obj"
+		]
+	}
+}

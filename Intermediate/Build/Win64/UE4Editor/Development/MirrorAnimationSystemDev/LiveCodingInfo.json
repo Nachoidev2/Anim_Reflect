@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MirrorAnimationSystemDev.cpp.obj": [
+			"MASFunctionLibrary.cpp.obj",
+			"MirrorAnimationSystemDev.cpp.obj"
+		],
+		"Module.MirrorAnimationSystemDev.gen.cpp.obj": [
+			"MASFunctionLibrary.gen.cpp.obj",
+			"MirrorAnimationSystemDev.init.gen.cpp.obj"
+		]
+	}
+}
