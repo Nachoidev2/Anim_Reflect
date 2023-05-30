@@ -78,7 +78,7 @@ void SMirrorAnimAssetDialog::Construct(const FArguments & InArgs, UAnimSequence 
 			SNew(SButton)
 			.ButtonStyle(FEditorStyle::Get(), "FlatButton.Success")
 		.ForegroundColor(FLinearColor::White)
-		.Text(LOCTEXT("PaperExtractSpritesExtractButton", "Invertir"))
+		.Text(LOCTEXT("PaperExtractSpritesExtractButton", "Invert"))
 		.OnClicked(this, &SMirrorAnimAssetDialog::MirrorClicked)
 		]
 	+ SUniformGridPanel::Slot(1, 0)
@@ -86,7 +86,7 @@ void SMirrorAnimAssetDialog::Construct(const FArguments & InArgs, UAnimSequence 
 			SNew(SButton)
 			.ButtonStyle(FEditorStyle::Get(), "FlatButton")
 		.ForegroundColor(FLinearColor::White)
-		.Text(LOCTEXT("PaperExtractSpritesCancelButton", "Cancelar"))
+		.Text(LOCTEXT("PaperExtractSpritesCancelButton", "Cancel"))
 		.OnClicked(this, &SMirrorAnimAssetDialog::CancelClicked)
 		]
 		]
