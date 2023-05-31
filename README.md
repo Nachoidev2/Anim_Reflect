@@ -1,4 +1,4 @@
-# Anim_Reflect
+# Anim Reflect
 AnimReflect (formerly known as MirrorAnimationSystem) is a plugin for Unreal Engine that allows for dynamic animation reversal. This plugin is based on the original MirrorAnimationSystem project created by Rexocrates.
 
 AnimReflect incorporates functionalities that enable mirroring animations with their root motion at runtime, both within the editor and during gameplay.
